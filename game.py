@@ -1,9 +1,6 @@
-from ctypes import HRESULT
-
 import pygame
 import sys
 import time
-from datetime import datetime
 
 # Инициализация pygame
 pygame.init()
